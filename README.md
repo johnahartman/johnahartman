@@ -4,6 +4,7 @@
 - 💞️ I’m looking to collaborate on SDNI - Scientific Discoveries and New Ideas a non-profit R&D bridge for achedemia and coporations with a B-Corp mentality if not the certification. 
 - 📫 How to reach me - https://www.ihaverobots.com  
 - 🧠 Where I train - https://www.VizScore.com
+- 🚀 Research Institute - https://www.sdni.org
 
 <!---
 johnahartman/johnahartman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
